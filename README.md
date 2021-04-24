@@ -25,13 +25,13 @@ Mas existe alguma maneira de descobrir que algum perfil utilizou esses robôs pa
 
 ### CURIOSIDADES 
 
-Este projeto foi pensado a partir de um estudo da professora [ Jennifer Golbeck] (https://en.wikipedia.org/wiki/Jen_Golbeck), professora da Universidade de Maryland.
+Este projeto foi pensado a partir de um estudo da professora <a href="https://en.wikipedia.org/wiki/Jen_Golbeck">Jennifer Golbeck</a>, professora da Universidade de Maryland.
 Ela fez um pesquisa em como a Lei de Benford seria aplicada e retornaria informações sobre as redes sociais.
 Um episódio de um documentário chamado a Era dos Dados menciona o estudo realizado por ela. Pra ser mais exato o episódio 4.
 
 ### BENFORD
 
-[ Lei de Benford ] (https://en.wikipedia.org/wiki/Benford%27s_law),também conhecida como Lei dos Primeiros Dígitos ou Fenômeno da
+<a href="https://en.wikipedia.org/wiki/Benford%27s_law">Lei de Benford</a>,também conhecida como Lei dos Primeiros Dígitos ou Fenômeno da
 Dígitos Significativos, é a constatação de que os primeiros dígitos do números encontrados em séries de registros das mais variadas fontes fazem
 não exibem uma distribuição uniforme, mas sim são organizados em tais uma forma em que o dígito "1" é o mais frequente, seguido por "2",
 "3", e assim de forma sucessiva e decrescente até "9", que apresenta a frequência mais baixa como o primeiro dígito.
@@ -76,7 +76,7 @@ Veja, neste caso não demostra quais são os perfis que possivelmente são os bo
 - Aumento de captação de dados
 
 ### APRESENTAÇÃO
-- <a hreh='https://drive.google.com/file/d/1q8-2ZN7VcGTz1j6knSK-woAD2H-UqMf2/view?usp=sharing'> Clique aqui </a>
+- <a hreh="https://drive.google.com/file/d/1q8-2ZN7VcGTz1j6knSK-woAD2H-UqMf2/view?usp=sharing">Clique aqui</a>
 
 ### AGRADECIMENTOS
 
