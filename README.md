@@ -5,7 +5,7 @@
 ![](math.gif)
 
 ## Status Projeto:
-In progress
+Em progresso
 
 ## Índice:
 - [Resumo](#Resumo)
@@ -55,7 +55,7 @@ Veja, neste caso não demostra quais são os perfis que possivelmente são os bo
 3. Ordenação de dados e estudo de bibliotecas necessárias;
 4. Visualização de dados;
 5. Análise de padrões;
-6. Clusterização para busca de padrões sobre análise descritiva.
+6. Clusterização para busca de padrões sobre análise descritiva. (A ser implementado)
 
 
 ## RESULTADO
@@ -68,7 +68,7 @@ Veja, neste caso não demostra quais são os perfis que possivelmente são os bo
 - [x] BeautifulSoup<br>
 - [x] Benford_Py<br>
 - [x] WebScraping <br>
-- [x] Clusterização<br>
+- [ ] Clusterização<br>
 
 
 ### MELHORIAS
@@ -78,7 +78,7 @@ Veja, neste caso não demostra quais são os perfis que possivelmente são os bo
 
 ### AGRADECIMENTOS
 
-
+Raiana Rocha e Guilherme Cuzner
 
 ## AUTOR
 César Ribeiro
